@@ -1,0 +1,15 @@
+C:\Users\ksona\OneDrive\Desktop\csharp and git\bin\Debug\net7.0\csharp and git.exe
+C:\Users\ksona\OneDrive\Desktop\csharp and git\bin\Debug\net7.0\csharp and git.deps.json
+C:\Users\ksona\OneDrive\Desktop\csharp and git\bin\Debug\net7.0\csharp and git.runtimeconfig.json
+C:\Users\ksona\OneDrive\Desktop\csharp and git\bin\Debug\net7.0\csharp and git.dll
+C:\Users\ksona\OneDrive\Desktop\csharp and git\bin\Debug\net7.0\csharp and git.pdb
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.csproj.AssemblyReference.cache
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.AssemblyInfoInputs.cache
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.AssemblyInfo.cs
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.csproj.CoreCompileInputs.cache
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.dll
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\refint\csharp and git.dll
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.pdb
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\csharp and git.genruntimeconfig.cache
+C:\Users\ksona\OneDrive\Desktop\csharp and git\obj\Debug\net7.0\ref\csharp and git.dll
